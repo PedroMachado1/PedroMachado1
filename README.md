@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroMachado1&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Pedro Machado github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMachado1&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMachado1&layout=compact&hide_border=true&theme=midnight-purple" />
 </div>
 
 ### Studying in this moment:
